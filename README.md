@@ -4,7 +4,7 @@ Este projeto é uma página web simples desenvolvida com **HTML** e **CSS**, que
 
 ---
 ## Visualize por aqui:
-<a>http://127.0.0.1:5501/index.html
+<a>https://ysabellax.github.io/projeto-android/
 
 ## 🌐 Sobre o Projeto
 
