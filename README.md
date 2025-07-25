@@ -1,6 +1,7 @@
 # Projeto Web - O Mascote Android
 
 Este projeto é uma página web simples desenvolvida com **HTML** e **CSS**, que homenageia o famoso mascote do sistema operacional Android. A proposta é apresentar de forma visual e interativa um pouco da história por trás desse personagem icônico do universo da tecnologia.
+
 ---
 ## Visualize por aqui:
 <a>http://127.0.0.1:5501/index.html
