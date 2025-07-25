@@ -68,4 +68,4 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ---
 
-Desenvolvido com 💚 por [Ysabella Conceição dos Santos]
+Desenvolvido com ❤️ por Ysabella Conceição dos Santos
